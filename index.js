@@ -37,6 +37,15 @@ Do the following:
    HINT: no function required
 */
 
+var firstThing = 0;
+var secondThing = 1;
+if(firstThing=0) {
+  console.log (`${firstThing}`);
+}
+  else {
+     console.log (`${secondThing}`);
+  }
+
 
 
 
