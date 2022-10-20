@@ -61,7 +61,8 @@ Do the following:
    HINT: look up the Number method
 */
 
-
+var year=Number("1999");
+console.log (year);
 
 
 /*
